@@ -22,6 +22,9 @@
 </a>
 
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=theaditya09&label=profile+views&color=6e40c9&style=flat-square&base=500" />
+</div>
 
 ---
 
@@ -93,6 +96,3 @@ looking_for : Collaborations, Open-Source contributions, Internships
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theaditya09&label=profile+views&color=6e40c9&style=flat-square&base=500" />
-</div>
