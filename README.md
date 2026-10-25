@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aditya-Developer19&label=PROFILE+VIEWS&color=6e40c9&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Aditya-Developer19&label=PROFILE+VIEWS&color=6e40c9&style=for-the-badge&base=989" alt="Profile views" />
 
 </div>
 
